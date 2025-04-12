@@ -6,8 +6,4 @@ matplotlib
 scikit-learn
 seaborn
 requests
-plotly                   
-scikit-bio               
-py3dmol      
-openpyxl                 
-fastapi                  
+streamlit-extras
