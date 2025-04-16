@@ -720,7 +720,8 @@ elif page == "📌 About":
             Your feedback is highly appreciated!  
             📧 Email: [wakaderushabh659@gmail.com](mailto:wakaderushabh659@gmail.com)  
             🔗 LinkedIn: [Rushabh Wakade](https://www.linkedin.com/in/rushabh-wakade-624304318)
-
+            💻 GitHub: [View Source Code](https://github.com/Rushabhbw/GeneVista/blob/main/Web1.py)
+            
             <center>Built with ❤️ by a passionate bioinformatics learner.</center>
             """, unsafe_allow_html=True)
 
