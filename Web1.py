@@ -655,7 +655,7 @@ elif page == "📌 About":
     with stylable_container(key="about_container", css_styles="""
         { background: rgba(255,255,255,0.93); border-radius: 15px; padding: 2rem; }
     """):
-        st.title("📌 About This Bioinformatics Web Server")
+        st.title("📌 About GeneVista & The Minds Behind It")
 
         with stylable_container("about-section", css_styles="background-color: #f0f8ff; padding: 1.5rem; border-radius: 10px;"):
             st.image(
@@ -680,7 +680,7 @@ elif page == "📌 About":
             The web server will continue to be enhanced with additional tools, improved UI, and expanded sequence analysis features based on user feedback and technological trends.
 
             ---
-            
+
             ### 🎯 Purpose  
             - To provide an easy-to-use platform for essential bioinformatics tasks.  
             - To simplify sequence retrieval and alignment for students, researchers, and educators.  
@@ -716,12 +716,23 @@ elif page == "📌 About":
 
             ---
 
+            ### 👨‍🏫 Mentorship & Acknowledgements  
+            Special thanks to **Dr. Kushagra Kashyap**,  
+            *Assistant Professor (Bioinformatics)*, Department of Life Sciences,  
+            School of Science and Mathematics, **DES Pune University**, for his invaluable guidance and academic support during the development of this project.  
+
+            His mentorship played a crucial role in shaping the project’s scientific direction and refining the technical implementation. The encouragement and expert insights provided throughout the mini-project were instrumental in its successful completion.  
+
+            🔗 [Connect on LinkedIn](https://www.linkedin.com/in/dr-kushagra-kashyap-b230a3bb)
+
+            ---
+
             ### ✉️ Feedback & Contact  
             Your feedback is highly appreciated!  
             📧 Email: [wakaderushabh659@gmail.com](mailto:wakaderushabh659@gmail.com)  
-            🔗 LinkedIn: [Rushabh Wakade](https://www.linkedin.com/in/rushabh-wakade-624304318)
+            🔗 LinkedIn: [Rushabh Wakade](https://www.linkedin.com/in/rushabh-wakade-624304318)  
             💻 GitHub: [View Source Code](https://github.com/Rushabhbw/GeneVista/blob/main/Web1.py)
-            
+
             <center>Built with ❤️ by a passionate bioinformatics learner.</center>
             """, unsafe_allow_html=True)
 
