@@ -714,6 +714,9 @@ elif page == "📌 About":
             - **GC-content plots** and sequence visualizations  
             - Session-based project saving and report export
 
+            ### Additional Tip 
+            - Keep your device settings on Light mode/theme for better visualization of the webserver.
+
             ---
 
             ### 👨‍🏫 Mentorship & Acknowledgements  
@@ -739,6 +742,6 @@ elif page == "📌 About":
 # Footer  
 st.markdown("""
 <div class="custom-footer">
-    <center>© 2025 Rushabh Wakade | Crafted for Bioinformatics Enthusiasts</center>
+    <center>2025 Rushabh Wakade | Crafted for Bioinformatics Enthusiasts</center>
 </div>
 """, unsafe_allow_html=True)
