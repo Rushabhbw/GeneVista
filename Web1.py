@@ -910,7 +910,7 @@ elif page == "📌 About":
 
         with stylable_container("about-section", css_styles="background-color: #f0f8ff; padding: 1.5rem; border-radius: 10px;"):
             st.image(
-                "https://media.licdn.com/dms/image/v2/D4E03AQFIOiRUAc60bQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729440388857?e=1749686400&v=beta&t=_cWkoM-scb2h-WwNfpUHliebtwIe1HVnra3uA1okzRE",
+                "https://media.licdn.com/dms/image/v2/D4E03AQFIhuxR1nWYdQ/profile-displayphoto-shrink_400_400/B4EZcB.FxAGQAg-/0/1748084744116?e=1753315200&v=beta&t=VS2zWlVxUQo9kjRh2m1FAxGnRFxljbt95D6XsCObEII",
                 width=150,
                 caption="Rushabh Wakade",
                 use_container_width=False
