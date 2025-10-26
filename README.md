@@ -1,7 +1,11 @@
 # GeneVista
 GeneVista is a user friendly, browser based bioinformatics web server developed by Rushabh Wakade, a Master's studnet at DES Pune University, as part of hus academic mini project. 
 <br>
+<<<<<<< HEAD
 Desinged to assist students, educators, and researchers, GeneVista enables essential tasks like NCBI sequence retrieval, pairwise alignment like global & local, and DNA/RNA to protein translation, with features such as customizable scoring, GenBank metadata viewing, and downloadable outputs. Built by using Python, Streamlit, Biopython and Pandas, it offers seamless access to biological databases without requiring installations. 
 <br>
 The platform reflects Rushabh's passion for structural bioinformatics, genomic analysis and tool development and continues to evolve with planned additions like BLAST integration, FASTA uploads and GC content visualization. The project was guided and supported by Dr. Kushagra Kashyap, Assistant Professor in Bioinformatics, whose mentorship played a pivotal role in shaping its scientific and technical direction. 
+=======
+Desinged to assist students, educators, and researchers, GeneVista enables essential tasks like NCBI sequence retrieval, pairwise alignment like global & local, and DNA/RNA to protein translation, with features such as customizable scoring, GenBank metadata viewing, and downloadable outputs. Built by using Python, Streamlit, Biopython and Pandas, it offers seamless access to biological databases without requiring installations. The platform reflects Rushabh's passion for structural bioinformatics, genomic analysis and tool development and continues to evolve with planned additions like BLAST integration, FASTA uploads and GC content visualization. The project was guided and supported by Dr. Kushagra Kashyap, Assistant Professor in Bioinformatics, whose mentorship played a pivotal role in shaping its scientific and technical direction. 
+>>>>>>> 23a2988dae1a0dc1b3d5152f34f8aabbbccb8278
 This web server can be accessed at: https://genevista.streamlit.app/ (Keep your device settings on Light mode/theme for better visualization of the webserver).
